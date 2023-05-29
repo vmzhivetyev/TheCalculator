@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TheCalculatorUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E60F5F752A2438FB005165C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E60F5F852A2438FC005165C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E60F5F8F2A2438FC005165C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
